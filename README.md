@@ -1,5 +1,5 @@
 # Description
-Amazon sign in page redrawn with HTML, CSS, and a little JS
+Exercises for Python in Coding Temple
 ## Technologies
 - Python (Jupyter)
 ## Focus topics
